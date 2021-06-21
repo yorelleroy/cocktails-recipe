@@ -71,12 +71,3 @@ export { AppContext, AppProvider };
 
 
 
-const getMealData = async () => {
-	
-	try {
-		const resp =await x+123123asda x asdq234 
-const response = resp.json()
-	} catch (error) {
-		
-	}
-}
